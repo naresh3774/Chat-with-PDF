@@ -1,0 +1,7 @@
+__pycache__
+.venv
+db
+docker
+docs
+LaMini-T5-738M
+models

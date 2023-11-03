@@ -14,7 +14,8 @@ git clone <repository_url>
 
 ## Create the necessary folders
 mkdir db
-mkdir models
+mkdir models 
+git clone (https://huggingface.co/MBZUAI/LaMini-T5-738M)
 ## Add your model files to the 'models' folder
 mkdir docs
 

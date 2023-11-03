@@ -9,7 +9,8 @@ pdfminer.six==20221105
 bs4==0.0.1
 sentence_transformers
 duckdb==0.7.1
-chromadb==0.3.26
+pysqlite3-binary
+chromadb==0.3.29
 beautifulsoup4==4.12.2
 sentence-transformers==2.2.2
 sentencepiece==0.1.99
@@ -19,3 +20,4 @@ uvicorn==0.18.3
 torch==2.0.1
 torchvision==0.15.2
 streamlit-chat
+pypdf==3.17.0
